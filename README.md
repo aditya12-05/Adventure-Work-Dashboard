@@ -38,6 +38,6 @@ The project highlights data cleaning, modeling, and visualization skills to supp
  
 
 ## 📸 Dashboard Preview 
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. 
 Example: ![Dashboard Preview](https://github.com/aditya12-05/Adventure-Work-Dashboard/blob/main/Adventure%20Works%20DashBoard.png)
 
