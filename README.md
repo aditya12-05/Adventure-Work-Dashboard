@@ -29,9 +29,8 @@ The project highlights data cleaning, modeling, and visualization skills to supp
 
 ---
 
-## 📸 Dashboard Preview  
-*(Add your screenshot here)*  
-`![Dashboard Preview](Images/dashboard-preview.png)`
+## 📸 Dashboard Preview   
+`https://github.com/aditya12-05/Adventure-Work-Dashboard/blob/main/Adventure%20Works%20DashBoard.png`
 
 ---
 
